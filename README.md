@@ -31,8 +31,6 @@ For Organization (staff/club secretary):
   <li>Add/Delete reminder</li>
   <li>View/Update profile name</li>
 </ul>
-<h3>Some Screenshots: </h3>
-![Eventdetails](https://user-images.githubusercontent.com/44870863/67933502-e2654d00-fc00-11e9-8137-17e612d45f2e.png)
-
-
+<h3>For some application screenshots:</h3> 
+https://drive.google.com/open?id=1eTjWJd0IDJnr1xTXuoD2JPCvqHt8xJho
 
