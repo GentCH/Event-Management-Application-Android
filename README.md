@@ -32,7 +32,6 @@ For Organization (staff/club secretary):
   <li>View/Update profile name</li>
 </ul>
 <h3>Some Screenshots: </h3>
-![about](https://user-images.githubusercontent.com/44870863/67933022-f78dac00-fbff-11e9-87a2-aa75e5c5710c.png)
 
 
 
