@@ -31,6 +31,4 @@ For Organization (staff/club secretary):
   <li>Add/Delete reminder</li>
   <li>View/Update profile name</li>
 </ul>
-<h3>For some application screenshots:</h3> 
-https://drive.google.com/open?id=1eTjWJd0IDJnr1xTXuoD2JPCvqHt8xJho
-
+<h3>Aapplication screenshots: upon request</h3> 
